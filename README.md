@@ -1,10 +1,12 @@
 # Comparison of Gras's algorithm and an optimized algorithm
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fidy-Heritiana/Gras-algorithm-for-constructing-an-oriented-hierarchy/blob/main/demo.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fidy-Heritiana/Gras-algorithm-for-constructing-an-oriented-hierarchy/main?labpath=demo.ipynb)
+[![Streamlit app](https://img.shields.io/badge/Streamlit-Live%20app-FF4B4B?logo=streamlit&logoColor=white)](https://gras-oriented-hierarchy.streamlit.app/)
+[![CI](https://github.com/Fidy-Heritiana/Gras-algorithm-for-constructing-an-oriented-hierarchy/actions/workflows/ci.yml/badge.svg)](https://github.com/Fidy-Heritiana/Gras-algorithm-for-constructing-an-oriented-hierarchy/actions/workflows/ci.yml)
 
 The two algorithms presented here enable the construction of a directed hierarchy, a data analysis model in statistical implicative analysis (SIA), in the form of a classification. The first is Gras's algorithm. It was presented by this author, the founder of SIA, in several of his works. The second algorithm proposes another, more efficient method of constructing it.
 
-To test both algorithms, use the simulated datasets `simulation_1.csv` to `simulation_20.csv` (from 10 to 200 variables) at the root of this repository. Click a badge above to run `demo.ipynb` in your browser, without installing anything.
+To test both algorithms, use the simulated datasets `simulation_1.csv` to `simulation_20.csv` (from 10 to 200 variables) at the root of this repository. Click a badge above to run `demo.ipynb` in your browser, without installing anything. An interactive web application is also available: https://gras-oriented-hierarchy.streamlit.app/
 
 You may consult the following article for further understanding:
 ## Associated Publication
