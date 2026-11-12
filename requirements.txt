@@ -3,3 +3,4 @@ pandas
 scipy
 networkx
 matplotlib
+ipywidgets
