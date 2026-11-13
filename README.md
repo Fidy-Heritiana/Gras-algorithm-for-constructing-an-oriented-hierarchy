@@ -9,6 +9,11 @@ The two algorithms presented here enable the construction of a directed hierarch
 
 To test both algorithms, use the simulated datasets `simulation_1.csv` to `simulation_20.csv` (from 10 to 200 variables) at the root of this repository. Click a badge above to run `demo.ipynb` in your browser, without installing anything. An interactive web application is also available: https://gras-oriented-hierarchy.streamlit.app/
 
+## The article in brief
+
+Gras's algorithm builds an oriented hierarchy in cubic time. The article studies oriented hierarchies as combinatorial objects, which can be enumerated with analytic combinatorics (on average they contain 3/2 blocks). It then uses the correspondence between the statistical implication graph and the hierarchy to build it through a lattice and a topological sort, in at most quadratic time. Experiments on 20 simulated data sets (10 to 200 variables) show that the optimized algorithm becomes faster than Gras's algorithm beyond a few dozen variables.
+
+A longer summary, with the main formulas, is in [ARTICLE_SUMMARY.md](ARTICLE_SUMMARY.md).
 You may consult the following article for further understanding:
 ## Associated Publication
 
