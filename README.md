@@ -3,6 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fidy-Heritiana/Gras-algorithm-for-constructing-an-oriented-hierarchy/main?labpath=demo.ipynb)
 [![Streamlit app](https://img.shields.io/badge/Streamlit-Live%20app-FF4B4B?logo=streamlit&logoColor=white)](https://gras-oriented-hierarchy.streamlit.app/)
 [![CI](https://github.com/Fidy-Heritiana/Gras-algorithm-for-constructing-an-oriented-hierarchy/actions/workflows/ci.yml/badge.svg)](https://github.com/Fidy-Heritiana/Gras-algorithm-for-constructing-an-oriented-hierarchy/actions/workflows/ci.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24185484.svg)](https://doi.org/10.5281/zenodo.24185484)
 
 The two algorithms presented here enable the construction of a directed hierarchy, a data analysis model in statistical implicative analysis (SIA), in the form of a classification. The first is Gras's algorithm. It was presented by this author, the founder of SIA, in several of his works. The second algorithm proposes another, more efficient method of constructing it.
 
