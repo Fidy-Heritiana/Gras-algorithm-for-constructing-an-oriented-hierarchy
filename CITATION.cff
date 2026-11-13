@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+title: "Comparison of Gras's algorithm and an optimized algorithm"
+type: software
+authors:
+  - family-names: Andrianarivony
+    given-names: Fidy Heritiana
+repository-code: "https://github.com/Fidy-Heritiana/Gras-algorithm-for-constructing-an-oriented-hierarchy"
+url: "https://github.com/Fidy-Heritiana/Gras-algorithm-for-constructing-an-oriented-hierarchy"
+abstract: "Python code, notebooks, simulated data and an interactive application comparing Gras's algorithm and an optimized algorithm for constructing an oriented hierarchy in statistical implicative analysis (SIA)."
+keywords:
+  - Implicative Statistical Analysis
+  - Oriented Hierarchies
+  - Algorithm Analysis
+  - Combinatorics
+  - Order Theory
+license: MIT
+version: 1.0.0
+date-released: 2026-11-12
+preferred-citation:
+  type: article
+  title: "Combinatorial and Algorithmic Analysis of Oriented Hierarchies in Implicative Statistical Analysis"
+  authors:
+    - family-names: Andrianarivony
+      given-names: Fidy Heritiana
+    - family-names: Ravelomanana
+      given-names: Vlady
+  journal: "Annals of Mathematics and Artificial Intelligence"
+  year: 2025
+  doi: "10.1007/s10472-025-10001-1"
+  publisher:
+    name: "Springer Nature"
